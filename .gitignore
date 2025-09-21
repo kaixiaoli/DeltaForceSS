@@ -9,3 +9,6 @@ build.bat
 user_config copy.yaml
 /Tesseract-OCR
 /dist
+examples/easy_language_pyautogui_demo/dist/
+examples/easy_language_pyautogui_demo/build/
+examples/easy_language_pyautogui_demo/pyautogui_login_cli.spec
